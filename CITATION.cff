@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+title: "smlcrm-brand-assets"
+abstract: "Public Simulacrum logo files, in blue, white and black, for use wherever the Simulacrum name appears."
+authors:
+  - name: "Simulacrum, Inc."
+    website: "https://smlcrm.com"
+repository-code: "https://github.com/Smlcrm/smlcrm-brand-assets"
+url: "https://smlcrm.com"
+keywords:
+  - "simulacrum"
+  - "brand-assets"
+  - "logo"
